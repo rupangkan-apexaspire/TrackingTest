@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TrackingTest</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="API_KEY">AIzaSyBJhhEbZnD7ZBo_dGpUuLJ9oe-tBOS9_z4</string>
+</resources>
